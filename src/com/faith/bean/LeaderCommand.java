@@ -7,4 +7,6 @@ public class LeaderCommand {
 	private String address;
 	private String adithU;
 
+	
+
 }
